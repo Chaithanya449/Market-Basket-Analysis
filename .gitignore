@@ -1,0 +1,17 @@
+# Ignore Python cache and temporary files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore dataset and large files
+*.csv
+*.xlsx
+*.zip
+
+# Ignore system files
+.DS_Store
+Thumbs.db
