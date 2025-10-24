@@ -91,5 +91,5 @@ Market Basket Analysis helps businesses:
 **Chaitanya Krishna (CK)**  
 _Data Science Project — Oct 2025_  
 
-🔗 **LinkedIn:** [Your LinkedIn URL]  
-💻 **GitHub:** [Your GitHub Profile URL]  
+🔗 **LinkedIn:** [www.linkedin.com/in/chaitanyakrishna-profile]  
+💻 **GitHub:** [https://github.com/Chaithanya449]  
